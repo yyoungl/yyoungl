@@ -33,7 +33,7 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pisouz7)](https://solved.ac/pisouz7)   𝚈𝚘𝚞𝚗𝚐 𝙻𝚎𝚎'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@𝚢𝚢𝚘𝚞𝚗𝚐𝚕*  📍 ***Seoul*** *South Korea*
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pisouz7)](https://solved.ac/pisouz7) 　𝚈𝚘𝚞𝚗𝚐 𝙻𝚎𝚎'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@𝚢𝚢𝚘𝚞𝚗𝚐𝚕*  📍 ***Seoul*** *South Korea*
 
 
 <br>
