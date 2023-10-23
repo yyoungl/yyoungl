@@ -39,7 +39,7 @@
 
 🌐 **Links**
 
-<a href="https://letusgrow.tistory.com/"> <img src="https://img.shields.io/badge/TISTORY-FF6000?style=for-the-badge&logo=tistory&logoColor=white"> </a> <a href="https://instagram.com/younglhub"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://yyoungl.github.io"> <img src="https://img.shields.io/badge/github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white"> </a> <a href="https://https://blog.naver.com/atyourglance"> <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"> </a>
+<a href="https://letusgrow.tistory.com/"> <img src="https://img.shields.io/badge/TISTORY-FF6000?style=for-the-badge&logo=tistory&logoColor=white"> </a> <a href="https://yyoungl.github.io"> <img src="https://img.shields.io/badge/github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white"> </a> <a href="https://https://blog.naver.com/atyourglance"> <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"> </a> <a href="https://instagram.com/younglhub"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> 
 
 <br>
 
