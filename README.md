@@ -37,7 +37,7 @@
 
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗...
 
-⚡ ***Electric & Electronic Engineering*** <span style="color: #ADADAD">*Power Systems Engineering, Communication Engieering*</span>
+⚡ ***Electric & Electronic Engineering*** <span style="color: #ADADAD">*Power Systems Engineering, Communication Engineering*</span>
 
 
 <br>
