@@ -22,9 +22,9 @@
 
 ✏ **I've studied & I'm studying at**
 
-💙 *SSAFY 10th @Seoul* 2023.07~
+💙 *SSAFY 10th @Seoul* <span style="color: #808080">2023.07~</span>
 
-💜 *Elice AI 7th* 2023.02~2023.06
+💜 *Elice AI 7th* <span style="color: #808080">2023.02~2023.06</span>
 
 
 <br>
@@ -45,9 +45,9 @@
 
 🤲 **Work Experiences**
 
-`Internship` 🛫  *Incheon International Airport Corporate - Construction Planning Group* 2022.06~2022.09
+`Internship` 🛫  *Incheon International Airport Corporate - Construction Planning Group* <span style="color: #808080">2022.06~2022.09</span>
 
-`part-time`  👩‍🏫  *Math & English Tutor* 2014.12~2023.01
+`part-time`  👩‍🏫  *Math & English Tutor* <span style="color: #808080">2014.12~2023.01</span>
 
 <br>
 
