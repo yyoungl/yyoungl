@@ -7,15 +7,22 @@
 
   
 <a href="https://github.com/yyoungl">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yyoungl&show_icons=true&theme=buefy&card_width=330" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yyoungl&show_icons=true&theme=buefy&card_width=300" />
 </a>
 <a href="https://github.com/yyoungl?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyoungl&layout=compact&langs_count=8&card_width=330" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyoungl&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 
 </div>
+<br>
+<div align="center">
 
+<img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pisouz7" />
+
+<img height=200 align="center" src="https://streak-stats.demolab.com/?user=yyoungl&theme=buefy&border=E4E2E2&card_width=400" />
+
+</div>
 
 
 <br>
@@ -25,6 +32,7 @@
 <br>
 
 
+<span style="background-color:#FDFFD0">𝚈𝚘𝚞𝚗𝚐 𝙻𝚎𝚎'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 @𝚢𝚢𝚘𝚞𝚗𝚐𝚕<span />
 
 📍 ***Seoul*** *South Korea*
 
@@ -76,14 +84,7 @@
 <br>
 
 
-<div align="center">
 
-<img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pisouz7" />
-
-<img height=200 align="center" src="https://streak-stats.demolab.com/?user=yyoungl&theme=buefy&border=E4E2E2" />
-
-</div>
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yyoungl&theme=react)](https://github.com/yyoungl/github-readme-activity-graph&theme=react)
 
 
