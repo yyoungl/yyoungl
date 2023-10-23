@@ -32,9 +32,9 @@
 <br>
 <br>
 
-<div style="background-color:#FFFDC8;">
-𝚈𝚘𝚞𝚗𝚐 𝙻𝚎𝚎'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 @𝚢𝚢𝚘𝚞𝚗𝚐𝚕
-</div>
+
+𝚈𝚘𝚞𝚗𝚐 𝙻𝚎𝚎'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@𝚢𝚢𝚘𝚞𝚗𝚐𝚕*
+
 
 <br>
 📍 ***Seoul*** *South Korea*
