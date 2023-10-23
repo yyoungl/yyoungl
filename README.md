@@ -30,10 +30,13 @@
 </div>
 
 <br>
+<br>
 
+<div style="background-color:#FFFDC8;">
+𝚈𝚘𝚞𝚗𝚐 𝙻𝚎𝚎'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 @𝚢𝚢𝚘𝚞𝚗𝚐𝚕
+</div>
 
-## 𝚈𝚘𝚞𝚗𝚐 𝙻𝚎𝚎'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 @𝚢𝚢𝚘𝚞𝚗𝚐𝚕
-
+<br>
 📍 ***Seoul*** *South Korea*
 
 
@@ -85,6 +88,6 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yyoungl&theme=react)](https://github.com/yyoungl/github-readme-activity-graph&theme=react)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yyoungl&theme=react&bg_color=ffffff&color=454343)](https://github.com/yyoungl/github-readme-activity-graph&theme=react)
 
 
