@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🍺yyoungl&fontSize=60&fontColor=ffffff&fontAlign=80)
 
 <br>
-
   
 <a href="https://github.com/yyoungl">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yyoungl&show_icons=true&theme=buefy&card_width=300" />
@@ -38,7 +37,7 @@
 
 <br>
 
-**💡 I majored in...**
+💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗...
 
 ⚡ ***Electric & Electronic Engineering*** <span style="color: #ADADAD">*Power Systems Engineering, Communication Engieering*</span>
 
@@ -46,7 +45,7 @@
 <br>
 
 
-✏ **I've studied & I'm studying at**
+✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
 
 💙 ***SSAFY 10th*** *@Seoul* <span style="color: #ADADAD">2023.07~</span>
 
@@ -55,7 +54,7 @@
 
 <br>
 
-🛠 **Skills & Tools**
+🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white">
 
@@ -63,7 +62,7 @@
 
 <br>
 
-🌐 **Contact & Links**
+🌐 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 & 𝙻𝚒𝚗𝚔𝚜
 
 <img src="https://img.shields.io/badge/pisouz7@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
 
@@ -71,7 +70,7 @@
 
 <br>
 
-🤲 **Work Experiences**
+🤲 𝚆𝚘𝚛𝚔 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜
 
 `Internship` 🛫  ***Incheon International Airport Corporate*** *Construction Planning Group* <span style="color: #ADADAD0">2022.06~2022.09</span>
 
