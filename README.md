@@ -39,7 +39,7 @@
 
 ⚡ ***Electric & Electronic Engineering*** <span style="color: #ADADAD">*Power Systems Engineering, Communication Engineering @Yonsei Univ*</span>
 
-💳 ***Relevant Certificate*** <span style="color: #ADADAD">*Electricity Engineer, *Engineer Electric Work*</span>
+💳 ***Relevant Certificate*** <span style="color: #ADADAD">*Electricity Engineer, Engineer Electric Work*</span>
 
 <br>
 
