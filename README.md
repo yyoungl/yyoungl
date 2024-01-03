@@ -35,6 +35,9 @@
 
 <br>
 
+✈️ 𝙸'𝚖 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚝
+
+`Occupation` ***Incheon International Airport Corporate*** *Computerization Job* <span style="color: #ADADAD0">2022.06~2022.09</span>
 
 
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
