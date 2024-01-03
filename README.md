@@ -37,9 +37,9 @@
 
 ✈️ 𝙸'𝚖 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚝
 
-`Occupation` ***Incheon International Airport Corporate*** *Computerization Job* <span style="color: #ADADAD0">2022.06~2022.09</span>
+`Occupation` ***Incheon International Airport Corporate*** *Computerization Job* <span style="color: #ADADAD0">2023.12~</span>
 
-
+<br>
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
 
 ⚡ ***Electric & Electronic Engineering*** <span style="color: #ADADAD">*Power Systems Engineering, Communication Engineering @Yonsei Univ*</span>
